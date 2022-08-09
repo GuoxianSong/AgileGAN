@@ -1,16 +1,9 @@
 # AgileGAN
 Official repo for paper "AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning"
-
-# Release Date
-We are in communication with company open code policy. The process is a litte bit longer.
-Meanwhile, please just try our online demo. 
-
-# Demo
-[link](http://www.agilegan.com/)
-
-# Supp
-[link](https://drive.google.com/file/d/1jBiI3N-RonyRvPhfbBg50t57lPG41oyO/view)
-This includes a lot of examples, comparisions, and albation study using CelebA-HQ dataset.
+Code are published in the supplementary at https://dl.acm.org/doi/abs/10.1145/3450626.3459771. 
+Due to company IP policy, I am sorry that dataset, training code and model might not be able to release.
+However, you can use third-party implementation to get similar results. https://github.com/open-mmlab/MMGEN-FaceStylor 
+If you would like me to run some comparison result, I am happy to help. 
 
 # Project Website
 [link](https://guoxiansong.github.io/homepage/agilegan.html)
